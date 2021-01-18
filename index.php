@@ -1,5 +1,5 @@
 <?php
 
 // Notre premier Hello World
-
-     "Hello World !";
+    echo "Hello World !";
+?>
